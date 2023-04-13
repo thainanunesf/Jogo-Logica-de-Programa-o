@@ -8,3 +8,5 @@
 
 ## Sistema 
 O sistema consiste em um jogo com 20 perguntas de Hardware que contém 4 alternativas cada pergunta.
+
+#testando funcionamento do github no vscode.
